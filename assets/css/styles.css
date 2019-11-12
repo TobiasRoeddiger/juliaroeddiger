@@ -3372,6 +3372,9 @@ padding-bottom: 70px
     font-weight: 500;
     color: rgba(255, 255, 255, 0.7)
 }
+.foot-c-info:hover{
+    color: white !important
+}
 .footer .social-icons.home-v2-icons{
     position: relative;
     bottom: auto;
